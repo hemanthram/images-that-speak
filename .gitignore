@@ -1,0 +1,5 @@
+checkpoints/
+.venv/
+configs/
+assets/
+__pycache__/
